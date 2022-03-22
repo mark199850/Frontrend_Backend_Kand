@@ -1,0 +1,24 @@
+{
+  "name": "api_development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark199850/Frontrend_Backend_Kand.git"
+  },
+  "author": "Mark Pocs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark199850/Frontrend_Backend_Kand/issues"
+  },
+  "homepage": "https://github.com/mark199850/Frontrend_Backend_Kand#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
+}
